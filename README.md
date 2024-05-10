@@ -1,6 +1,9 @@
 # Linux On Gitpod
 Source: 3kh0/GamingOnCodespaces
 
+> [!NOTE]
+> You may need a phone number and be able to recieve phone calls
+
 ```Always CTRL + Click links to open in new tab```
 
 Sign up to [The Hub (GitHub)](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=Inglan2%2FLinuxOnGitpod)
