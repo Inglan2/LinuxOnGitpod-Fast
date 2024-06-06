@@ -1,4 +1,8 @@
 # Linux On Gitpod
+
+> [!NOTE]
+> This project is EoL and a new one is coming soon!
+
 Source: 3kh0/GamingOnCodespaces
 
 > [!NOTE]
